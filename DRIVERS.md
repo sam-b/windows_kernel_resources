@@ -10,20 +10,26 @@
 | http://web.archive.org/web/20140822184652/http://support.microsoft.com/default.aspx?scid=KB;EN-US;Q186775& | Tips for Windows NT Driver Developers -- Things to Avoid |  
 | https://codeinsecurity.wordpress.com/2015/09/03/wx-policy-violation-affecting-all-windows-drivers-compiled-in-visual-studio-2013-and-previous/ | W^X policy violation affecting all Windows drivers compiled in Visual Studio 2013 and previous |  
 
-## Exploitation
+## Bug Hunting & Exploitation
 
 ### 2008
 | Link                                                                                       | Title                                              |
 |--------------------------------------------------------------------------------------------|----------------------------------------------------|
 | https://www.immunityinc.com/downloads/DriverImpersonationAttack_i2omgmt.pdf | I2OMGMT Driver Impersonation Attack |  
 
+### 2014
+| Link                                                                                       | Title                                              |
+|--------------------------------------------------------------------------------------------|----------------------------------------------------|
+| [http://blog.quarkslab.com/usb-fuzzing-basics-from-fuzzing-to-bug-reporting.html](http://blog.quarkslab.com/usb-fuzzing-basics-from-fuzzing-to-bug-reporting.html) | USB Fuzzing Basics: From fuzzing to bug reporting |
+
 ### 2015 
 | Link                                                                                       | Title                                              |
 |--------------------------------------------------------------------------------------------|----------------------------------------------------|
-| https://www.coresecurity.com/blog/analysis-of-windows-usb-descriptor-vulnerability-ms13-081-cve-2013-3200 | Analysis of Windows USB Descriptor Vulnerability - MS13-081 (CVE-2013-3200) |
+| [https://www.coresecurity.com/blog/analysis-of-windows-usb-descriptor-vulnerability-ms13-081-cve-2013-3200](https://www.coresecurity.com/blog/analysis-of-windows-usb-descriptor-vulnerability-ms13-081-cve-2013-3200) | Analysis of Windows USB Descriptor Vulnerability - MS13-081 (CVE-2013-3200) |
 
 ### 2016
 | Link                                                                                       | Title                                              |
 |--------------------------------------------------------------------------------------------|----------------------------------------------------|
-| https://codeinsecurity.wordpress.com/2016/06/12/asus-uefi-update-driver-physical-memory-readwrite/ | ASUS UEFI Update Driver Physical Memory Read/Write |  
-| http://blog.rewolf.pl/blog/?p=1630 | MSI ntiolib.sys/winio.sys local privilege escalation |  
+| [https://codeinsecurity.wordpress.com/2016/06/12/asus-uefi-update-driver-physical-memory-readwrite/](https://codeinsecurity.wordpress.com/2016/06/12/asus-uefi-update-driver-physical-memory-readwrite/) | ASUS UEFI Update Driver Physical Memory Read/Write |  
+| [http://blog.rewolf.pl/blog/?p=1630](http://blog.rewolf.pl/blog/?p=1630) | MSI ntiolib.sys/winio.sys local privilege escalation |  
+| [https://googleprojectzero.blogspot.co.uk/2017/02/attacking-windows-nvidia-driver.html](https://googleprojectzero.blogspot.co.uk/2017/02/attacking-windows-nvidia-driver.html) 	| Attacking the Windows NVIDIA Driver |

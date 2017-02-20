@@ -74,7 +74,7 @@
 | https://www.coresecurity.com/blog/ms16-039-windows-10-64-bits-integer-overflow-exploitation-by-using-gdi-objects | MS16-039 - "Windows 10" 64 bits Integer Overflow exploitation by using GDI objects |  
 | https://github.com/IOActive/I-know-where-your-page-lives | I Know Where Your Page Lives: Derandomizing the latest Windows 10 Kernel |  
 | https://securingtomorrow.mcafee.com/mcafee-labs/digging-windows-kernel-privilege-escalation-vulnerability-cve-2016-7255/ | Digging Into a Windows Kernel Privilege Escalation Vulnerability: CVE-2016-7255 |  
-
+| http://blog.trendmicro.com/trendlabs-security-intelligence/one-bit-rule-system-analyzing-cve-2016-7255-exploit-wild/ | One Bit To Rule A System: Analyzing CVE-2016-7255 Exploit In The Wild |
 ### 2017
 | Link                                                                                       | Title                                              |
 |--------------------------------------------------------------------------------------------|----------------------------------------------------|
