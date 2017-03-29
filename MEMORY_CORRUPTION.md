@@ -37,7 +37,6 @@
 | http://hitcon.org/2012/download/0720A5_360.MJ0011_Reversing%20Windows8-Interesting%20Features%20of%20Kernel%20Security.pdf | Reversing Windows8: Interesting Features of Kernel Security |  
 | http://mista.nu/research/smashing_the_atom.pdf | Smashing The Atom: Extraordinary String Based Attacks |  
 | http://media.blackhat.com/bh-us-12/Briefings/Cerrudo/BH_US_12_Cerrudo_Windows_Kernel_WP.pdf | Easy local Windows Kernel exploitation |  
-| http://www.powerofcommunity.net/poc2012/mj0011.pdf | Using a Patched Vulnerability to Bypass Windows 8 x64 Driver Signature Enforcement |  
 
 ### 2013
 | Link                                                                                       | Title                                              |
@@ -75,8 +74,18 @@
 | https://github.com/IOActive/I-know-where-your-page-lives | I Know Where Your Page Lives: Derandomizing the latest Windows 10 Kernel |  
 | https://securingtomorrow.mcafee.com/mcafee-labs/digging-windows-kernel-privilege-escalation-vulnerability-cve-2016-7255/ | Digging Into a Windows Kernel Privilege Escalation Vulnerability: CVE-2016-7255 |  
 | http://blog.trendmicro.com/trendlabs-security-intelligence/one-bit-rule-system-analyzing-cve-2016-7255-exploit-wild/ | One Bit To Rule A System: Analyzing CVE-2016-7255 Exploit In The Wild |
+| http://cvr-data.blogspot.co.uk/2016/11/windows-10-anniversary-update-gdi.html | Windows 10 Anniversary Update: GDI handle management and vulnerabilities exploitation |
+| http://cvr-data.blogspot.co.uk/2016/11/lpe-vulnerabilities-exploitation-on.html | LPE vulnerabilities exploitation on Windows 10 Anniversary Update |
 ### 2017
 | Link                                                                                       | Title                                              |
 |--------------------------------------------------------------------------------------------|----------------------------------------------------|
 | https://sensepost.com/blog/2017/exploiting-ms16-098-rgnobj-integer-overflow-on-windows-8.1-x64-bit-by-abusing-gdi-objects/ | Exploiting MS16-098 RGNOBJ Integer Overflow on Windows 8.1 x64 bit by abusing GDI objects |  
 | http://ricklarabee.blogspot.co.uk/2017/01/virtual-memory-page-tables-and-one-bit.html | Virtual Memory, Page Tables, and One Bit - CVE-2016-7255 |  
+| https://blogs.technet.microsoft.com/mmpc/2017/01/13/hardening-windows-10-with-zero-day-exploit-mitigations/ | Hardening Windows 10 with zero-day exploit mitigations |
+| https://labs.mwrinfosecurity.com/blog/a-tale-of-bitmaps/ | A Tale Of Bitmaps: Leaking GDI Objects Post Windows 10 Anniversary Edition |
+| https://improsec.com/blog//hardening-windows-10-with-zero-day-exploit-mitigations-under-the-microscope | Hardening Windows 10 With Zero Day Exploit Mitigations Under The Microscope |
+| https://improsec.com/blog//windows-kernel-shellcode-on-windows-10-part-1 | Windows Kernel Shellcode on Windows 10 – Part 1 |
+| https://improsec.com/blog//windows-kernel-shellcode-on-windows-10-part-2 | Windows Kernel Shellcode on Windows 10 – Part 2 |
+| https://improsec.com/blog//windows-kernel-shellcode-on-windows-10-part-3 | Windows Kernel Shellcode on Windows 10 – Part 3 |
+| https://improsec.com/blog//windows-kernel-shellcode-on-windows-10-part-4-there-is-no-code | Windows Kernel Shellcode on Windows 10 – Part 4 - There is No Code |
+| https://blogs.technet.microsoft.com/mmpc/2017/03/27/detecting-and-mitigating-elevation-of-privilege-exploit-for-cve-2017-0005/ | Detecting and mitigating elevation-of-privilege exploit for CVE-2017-0005 |
