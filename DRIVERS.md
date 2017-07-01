@@ -21,6 +21,10 @@
 |--------------------------------------------------------------------------------------------|----------------------------------------------------|
 | http://www.powerofcommunity.net/poc2012/mj0011.pdf | Using a Patched Vulnerability to Bypass Windows 8 x64 Driver Signature Enforcement |  
 
+### 2017
+| Link                                                                                       | Title                                              |
+|--------------------------------------------------------------------------------------------|----------------------------------------------------|
+| http://x64dbg.com/blog/2017/06/08/kernel-driver-unpacking.html | Kernel driver unpacking |
 
 ## Bug Hunting & Exploitation
 
@@ -51,3 +55,4 @@
 | Link                                                                                       | Title                                              |
 |--------------------------------------------------------------------------------------------|----------------------------------------------------|
 | http://blog.rewolf.pl/blog/?p=1778 | PCAUSA Rawether for Windows local privilege escalation |
+| https://landave.io/2017/06/avast-antivirus-remote-stack-buffer-overflow-with-magic-numbers/#fn:3 | Avast Antivirus: Remote Stack Buffer Overflow with Magic Numbers |

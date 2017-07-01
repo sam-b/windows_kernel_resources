@@ -13,6 +13,18 @@
 |--------------------------------------------------------------------------------------------|----------------------------------------------------|
 | [https://www.malwaretech.com/2015/01/using-kernel-rootkits-to-concea.html](https://www.malwaretech.com/2015/01/using-kernel-rootkits-to-concea.html) | Using Kernel Rootkits to Conceal Infected MBR |
 
+### 2016
+| Link                                                                                       | Title                                              |
+|--------------------------------------------------------------------------------------------|----------------------------------------------------|
+| http://www.sekoia.fr/blog/wp-content/uploads/2016/10/Rootkit-analysis-Use-case-on-HIDEDRV-v1.6.pdf | Rootkit analysis: Use case on HideDRV |
+
+### 2017
+| Link                                                                                       | Title                                              |
+|--------------------------------------------------------------------------------------------|----------------------------------------------------|
+| https://countercept.com/our-thinking/analyzing-the-doublepulsar-kernel-dll-injection-technique/ | Analyzing the DOUBLEPULSAR Kernel DLL Injection Technique |
+| https://www.cyberark.com/threat-research-blog/ghosthook-bypassing-patchguard-processor-trace-based-hooking/ | GhostHook – Bypassing PatchGuard with Processor Trace Based Hooking |
+
+
 ##Bootkits
 ###2012
 | Link                                                                                       | Title                                              |

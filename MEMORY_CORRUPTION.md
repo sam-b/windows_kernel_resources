@@ -89,3 +89,10 @@
 | https://improsec.com/blog//windows-kernel-shellcode-on-windows-10-part-3 | Windows Kernel Shellcode on Windows 10 – Part 3 |
 | https://improsec.com/blog//windows-kernel-shellcode-on-windows-10-part-4-there-is-no-code | Windows Kernel Shellcode on Windows 10 – Part 4 - There is No Code |
 | https://blogs.technet.microsoft.com/mmpc/2017/03/27/detecting-and-mitigating-elevation-of-privilege-exploit-for-cve-2017-0005/ | Detecting and mitigating elevation-of-privilege exploit for CVE-2017-0005 |
+| http://www.geoffchappell.com/studies/windows/km/ntoskrnl/api/ex/profile/bugdemo.htm | Bug Check From User Mode By Profiling |
+| https://researchcenter.paloaltonetworks.com/2017/05/unit42-dissection-esteemaudit-windows-remote-desktop-exploit/ | A Dissection of the “EsteemAudit” Windows Remote Desktop Exploit |
+| https://www.risksense.com/_api/filesystem/468/EternalBlue_RiskSense-Exploit-Analysis-and-Port-to-Microsoft-Windows-10_v1_2.pdf | ETERNALBLUE: Exploit Analysis and Port to Microsoft Windows 10 |
+| http://www.iceswordlab.com/2017/06/14/Automatically-Discovering-Windows-Kernel-Information-Leak-Vulnerabilities_en/ | Automatically Discovering Windows Kernel Information Leak Vulnerabilities |
+| https://blogs.technet.microsoft.com/mmpc/2017/06/16/analysis-of-the-shadow-brokers-release-and-mitigation-with-windows-10-virtualization-based-security | Analysis of the Shadow Brokers release and mitigation with Windows 10 virtualization-based security |
+| https://blogs.technet.microsoft.com/srd/2017/06/20/tales-from-the-msrc-from-pixels-to-poc/ | Tales from the MSRC: from pixels to POC |
+| https://blogs.technet.microsoft.com/srd/2017/06/29/eternal-champion-exploit-analysis/ | Eternal Champion Exploit Analysis |
