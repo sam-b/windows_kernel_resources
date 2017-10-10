@@ -10,3 +10,8 @@
 | [http://windbg.info/doc/1-common-cmds.html](http://windbg.info/doc/1-common-cmds.html)						| Common WinDbg Commands								|
 | [http://terminus.rewolf.pl/terminus/](http://terminus.rewolf.pl/terminus/)									| Windows Data Structure Diffs		|
 | [http://www.codemachine.com/article_x64kvas.html](http://www.codemachine.com/article_x64kvas.html)			| Windows kernel virtual address space on X64 versions of Windows 7 and Server 2008 R2 |
+
+## Misc Internals
+| Link                                                                                       					| Title                                              	|
+|---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
+| http://www.triplefault.io/2017/07/breaking-backwards-compatibility-5-year.html | Breaking backwards compatibility: a 5 year old bug deep within Windows  |

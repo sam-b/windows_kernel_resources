@@ -4,6 +4,19 @@
 | Link                                                                                       | Title                                              |
 |--------------------------------------------------------------------------------------------|----------------------------------------------------|
 | [http://www.phrack.org/issues/63/8.html](http://www.phrack.org/issues/63/8.html)			 | Raising The Bar For Windows Rootkit Detection	  |
+| http://www.uninformed.org/?v=all&a=14 | Bypassing PatchGuard on Windows x64 
+
+### 2006
+| Link                                                                                       | Title                                              |
+|--------------------------------------------------------------------------------------------|----------------------------------------------------|
+| http://www.uninformed.org/?v=all&a=28 | Subverting PatchGuard Version 2 |
+
+### 2007
+| Link                                                                                       | Title                                              |
+|--------------------------------------------------------------------------------------------|----------------------------------------------------|
+| http://www.uninformed.org/?v=all&a=38 | A Brief Analysis of PatchGuard Version 3  |
+| http://www.uninformed.org/?v=8&a=2 | A Catalog of Windows Local Kernel-mode Backdoor Techniques  |
+
 ### 2011
 | Link                                                                                       | Title                                              |
 |--------------------------------------------------------------------------------------------|----------------------------------------------------|
@@ -36,6 +49,7 @@
 |--------------------------------------------------------------------------------------------|----------------------------------------------------|
 | [https://www.malwaretech.com/2014/04/coding-malware-for-fun-and-not-for.html](https://www.malwaretech.com/2014/04/coding-malware-for-fun-and-not-for.html) | Coding Malware for Fun and Not for Profit (Because that would be illegal)|
 | https://www.virusbulletin.com/uploads/pdf/conference/vb2014/VB2014-RodionovMatrosov.pdf | BOOTKITS: PAST, PRESENT & FUTURE |
+
 ###2015
 | Link                                                                                       | Title                                              |
 |--------------------------------------------------------------------------------------------|----------------------------------------------------|

@@ -14,6 +14,16 @@
 |--------------------------------------------------------------------------------------------|----------------------------------------------------|
 | http://www.uninformed.org/?v=6&a=2&t=sumry | exploiting 802.11 wireless driver vulnerabilities on windows |  
 
+### 2008
+| Link                                                                                       | Title                                              |
+|--------------------------------------------------------------------------------------------|----------------------------------------------------|
+| https://blogs.technet.microsoft.com/srd/2008/10/14/ms08-061-the-case-of-the-kernel-mode-double-fetch/ | MS08-061 : The case of the kernel mode double-fetch |
+
+### 2009
+| Link                                                                                       | Title                                              |
+|--------------------------------------------------------------------------------------------|----------------------------------------------------|
+| https://blogs.technet.microsoft.com/srd/2009/05/26/safe-unlinking-in-the-kernel-pool/ | Safe Unlinking in the Kernel Pool |
+
 ### 2010 
 | Link                                                                                       | Title                                              |
 |--------------------------------------------------------------------------------------------|----------------------------------------------------|
@@ -43,7 +53,7 @@
 |--------------------------------------------------------------------------------------------|----------------------------------------------------|
 | https://labs.mwrinfosecurity.com/blog/mwr-labs-pwn2own-2013-write-up-kernel-exploit/ | MWR Labs Pwn2Own 2013 Write-up - Kernel Exploit |  
 | http://www.alex-ionescu.com/?p=82 | KASLR Bypass Mitigations in Windows 8.1 |  
-
+| https://blogs.technet.microsoft.com/srd/2013/11/06/software-defense-safe-unlinking-and-reference-count-hardening/ | Software defense: safe unlinking and reference count hardening |
 ### 2014
 | Link                                                                                       | Title                                              |
 |--------------------------------------------------------------------------------------------|----------------------------------------------------|
@@ -91,8 +101,17 @@
 | https://blogs.technet.microsoft.com/mmpc/2017/03/27/detecting-and-mitigating-elevation-of-privilege-exploit-for-cve-2017-0005/ | Detecting and mitigating elevation-of-privilege exploit for CVE-2017-0005 |
 | http://www.geoffchappell.com/studies/windows/km/ntoskrnl/api/ex/profile/bugdemo.htm | Bug Check From User Mode By Profiling |
 | https://researchcenter.paloaltonetworks.com/2017/05/unit42-dissection-esteemaudit-windows-remote-desktop-exploit/ | A Dissection of the “EsteemAudit” Windows Remote Desktop Exploit |
+| https://labs.bluefrostsecurity.de/blog/2017/05/11/windows-10-hals-heap-extinction-of-the-halpinterruptcontroller-table-exploitation-technique/ | Windows 10 HAL’s Heap – Extinction of the "HalpInterruptController" Table Exploitation Technique |
 | https://www.risksense.com/_api/filesystem/468/EternalBlue_RiskSense-Exploit-Analysis-and-Port-to-Microsoft-Windows-10_v1_2.pdf | ETERNALBLUE: Exploit Analysis and Port to Microsoft Windows 10 |
 | http://www.iceswordlab.com/2017/06/14/Automatically-Discovering-Windows-Kernel-Information-Leak-Vulnerabilities_en/ | Automatically Discovering Windows Kernel Information Leak Vulnerabilities |
 | https://blogs.technet.microsoft.com/mmpc/2017/06/16/analysis-of-the-shadow-brokers-release-and-mitigation-with-windows-10-virtualization-based-security | Analysis of the Shadow Brokers release and mitigation with Windows 10 virtualization-based security |
 | https://blogs.technet.microsoft.com/srd/2017/06/20/tales-from-the-msrc-from-pixels-to-poc/ | Tales from the MSRC: from pixels to POC |
 | https://blogs.technet.microsoft.com/srd/2017/06/29/eternal-champion-exploit-analysis/ | Eternal Champion Exploit Analysis |
+| https://blogs.technet.microsoft.com/srd/2017/07/13/eternal-synergy-exploit-analysis/ | Eternal Synergy Exploit Analysis |
+| https://blogs.technet.microsoft.com/srd/2017/07/20/englishmansdentist-exploit-analysis/ | EnglishmansDentist Exploit Analysis |
+| https://sensepost.com/blog/2017/abusing-gdi-objects-for-ring0-primitives-revolution/ | Abusing GDI Objects for ring0 Primitives Revolution |
+| https://improsec.com/blog//data-only-attacks-are-still-alive | Data Only Attacks Are Still Alive |
+| https://www.blackhat.com/docs/us-17/wednesday/us-17-Schenk-Taking-Windows-10-Kernel-Exploitation-To-The-Next-Level%E2%80%93Leveraging-Write-What-Where-Vulnerabilities-In-Creators-Update-wp.pdf | TAKING WINDOWS 10 KERNEL EXPLOITATION TO THE NEXT LEVEL – LEVERAING WRITE-WHAT-WHERE VULNERABILITIES IN CREATORS UPDATE |
+| http://srcincite.io/blog/2017/09/06/sharks-in-the-pool-mixed-object-exploitation-in-the-windows-kernel-pool.html | Sharks in the Pool :: Mixed Object Exploitation in the Windows Kernel Pool |
+| https://googleprojectzero.blogspot.co.uk/2017/10/using-binary-diffing-to-discover.html | Using Binary Diffing to Discover Windows Kernel Memory Disclosure Bugs |
+| https://siberas.de/blog/2017/10/05/exploitation_case_study_wild_pool_overflow_CVE-2016-3309_reloaded.html | Kernel Exploitation Case Study - "Wild" Pool Overflow on Win10 x64 RS2 (CVE-2016-3309 Reloaded) |

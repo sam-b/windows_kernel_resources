@@ -25,3 +25,4 @@
 | Link                                                                                       | Title                                              |
 |--------------------------------------------------------------------------------------------|----------------------------------------------------|
 | http://hvinternals.blogspot.co.uk/2017/02/hyper-v-sockets-without-internals.html | Hyper-V sockets (without internals) |
+| https://hvinternals.blogspot.co.uk/2017/09/hyperv-socket-internals.html | Hyper-V sockets internals |
