@@ -60,3 +60,11 @@
 | [https://googleprojectzero.blogspot.co.uk/2017/02/attacking-windows-nvidia-driver.html](https://googleprojectzero.blogspot.co.uk/2017/02/attacking-windows-nvidia-driver.html) 	| Attacking the Windows NVIDIA Driver |
 | http://blog.rewolf.pl/blog/?p=1778 | PCAUSA Rawether for Windows local privilege escalation |
 | https://landave.io/2017/06/avast-antivirus-remote-stack-buffer-overflow-with-magic-numbers/#fn:3 | Avast Antivirus: Remote Stack Buffer Overflow with Magic Numbers |
+
+
+### 2018
+| Link                                                                                       | Title                                              |
+|--------------------------------------------------------------------------------------------|----------------------------------------------------|
+| https://www.fidusinfosec.com/jungo-windriver-code-execution-cve-2018-5189/ | RUMBLE IN THE JUNGO – A CODE EXECUTION WALKTHROUGH – CVE-2018-5189 |
+| https://securelist.com/elevation-of-privileges-in-namco-driver/83707/ | A vulnerable driver: lesson almost learned |
+| https://www.fidusinfosec.com/nomachine-road-code-execution-without-fuzzing-cve-2018-6947/ | NOMACHINE UN-INITIALISED VARIABLE PRIVILEGE ESCALATION – A FUZZ-LESS EXPLOIT TUTORIAL – CVE-2018-6947 |

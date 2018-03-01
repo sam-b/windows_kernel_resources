@@ -36,7 +36,12 @@
 |--------------------------------------------------------------------------------------------|----------------------------------------------------|
 | https://countercept.com/our-thinking/analyzing-the-doublepulsar-kernel-dll-injection-technique/ | Analyzing the DOUBLEPULSAR Kernel DLL Injection Technique |
 | https://www.cyberark.com/threat-research-blog/ghosthook-bypassing-patchguard-processor-trace-based-hooking/ | GhostHook – Bypassing PatchGuard with Processor Trace Based Hooking |
+| https://zerosum0x0.blogspot.co.uk/2017/07/puppet-strings-dirty-secret-for-free.html | Puppet Strings - Dirty Secret for Windows Ring 0 Code Execution |
 
+### 2018
+| Link                                                                                       | Title                                              |
+|--------------------------------------------------------------------------------------------|----------------------------------------------------|
+| https://exatrack.com/public/Uroburos_EN.pdf | Hey Uroburos! What's up ? |
 
 ##Bootkits
 ###2012
@@ -56,5 +61,4 @@
 | [https://www.malwaretech.com/2015/02/bootkit-disk-forensics-part-1.html](https://www.malwaretech.com/2015/02/bootkit-disk-forensics-part-1.html) | Bootkit Disk Forensics – Part 1 |
 | [http://www.malwaretech.com/2015/03/bootkit-disk-forensics-part-2.html](http://www.malwaretech.com/2015/03/bootkit-disk-forensics-part-2.html) | Bootkit Disk Forensics – Part 2 |
 | [http://www.malwaretech.com/2015/03/bootkit-disk-forensics-part-3.html](http://www.malwaretech.com/2015/03/bootkit-disk-forensics-part-3.html) | Bootkit Disk Forensics – Part 3 |
-
 

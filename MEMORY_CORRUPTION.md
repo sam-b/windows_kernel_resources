@@ -115,3 +115,9 @@
 | http://srcincite.io/blog/2017/09/06/sharks-in-the-pool-mixed-object-exploitation-in-the-windows-kernel-pool.html | Sharks in the Pool :: Mixed Object Exploitation in the Windows Kernel Pool |
 | https://googleprojectzero.blogspot.co.uk/2017/10/using-binary-diffing-to-discover.html | Using Binary Diffing to Discover Windows Kernel Memory Disclosure Bugs |
 | https://siberas.de/blog/2017/10/05/exploitation_case_study_wild_pool_overflow_CVE-2016-3309_reloaded.html | Kernel Exploitation Case Study - "Wild" Pool Overflow on Win10 x64 RS2 (CVE-2016-3309 Reloaded) |
+| https://blog.xpnsec.com/windows-warbird-privesc/ | Kernel Exploit Demo - Windows 10 privesc via WARBIRD |
+### 2018
+| Link                                                                                       | Title                                              |
+|--------------------------------------------------------------------------------------------|----------------------------------------------------|
+| https://sww-it.ru/2018-01-29/1532 | Decrement Windows kernel for fun and profit |
+| https://blog.quarkslab.com/reverse-engineering-the-win32k-type-isolation-mitigation.html | Reverse Engineering the Win32k Type Isolation Mitigation |
