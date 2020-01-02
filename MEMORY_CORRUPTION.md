@@ -102,7 +102,7 @@
 | http://www.geoffchappell.com/studies/windows/km/ntoskrnl/api/ex/profile/bugdemo.htm | Bug Check From User Mode By Profiling |
 | https://researchcenter.paloaltonetworks.com/2017/05/unit42-dissection-esteemaudit-windows-remote-desktop-exploit/ | A Dissection of the “EsteemAudit” Windows Remote Desktop Exploit |
 | https://labs.bluefrostsecurity.de/blog/2017/05/11/windows-10-hals-heap-extinction-of-the-halpinterruptcontroller-table-exploitation-technique/ | Windows 10 HAL’s Heap – Extinction of the "HalpInterruptController" Table Exploitation Technique |
-| https://www.risksense.com/_api/filesystem/468/EternalBlue_RiskSense-Exploit-Analysis-and-Port-to-Microsoft-Windows-10_v1_2.pdf | ETERNALBLUE: Exploit Analysis and Port to Microsoft Windows 10 |
+| https://risksense.com/wp-content/uploads/2018/05/White-Paper_Eternal-Blue.pdf | ETERNALBLUE: Exploit Analysis and Port to Microsoft Windows 10 |
 | http://www.iceswordlab.com/2017/06/14/Automatically-Discovering-Windows-Kernel-Information-Leak-Vulnerabilities_en/ | Automatically Discovering Windows Kernel Information Leak Vulnerabilities |
 | https://blogs.technet.microsoft.com/mmpc/2017/06/16/analysis-of-the-shadow-brokers-release-and-mitigation-with-windows-10-virtualization-based-security | Analysis of the Shadow Brokers release and mitigation with Windows 10 virtualization-based security |
 | https://blogs.technet.microsoft.com/srd/2017/06/20/tales-from-the-msrc-from-pixels-to-poc/ | Tales from the MSRC: from pixels to POC |
